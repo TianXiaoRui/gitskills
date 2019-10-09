@@ -37,11 +37,11 @@ git merge dev
 合并之后在master分支下的README更新了
 
 
-之后可以通过
+之后可以通过下面命令删除分支
 ```
 git branch -d dev
 ```
-删除分支
+
 ---
 ### 分支冲突
 分支冲突解决：
