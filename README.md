@@ -11,3 +11,6 @@ git clone git@github.com:username/repository.git
 ```
 克隆到本地，进入文件夹之后就可以进行开发和git管理了
 
+
+测试
+添加分支
